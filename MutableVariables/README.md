@@ -11,6 +11,6 @@ Wrong Code:
 ```C++
     const Sample sample(10,10);
     cout<<"X:\t"<<sample.x<<endl;
-    sample.y += 10;
+    sample.x += 10;
     cout<<"X:\t"<<sample.x<<endl;
 ```
